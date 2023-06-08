@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  text-align: center;
+  line-height: 100vh;
+  background: url(../image/bg5.jpg) center/cover;
+  font-size: .8em;
+}
+
+body p {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  background: url(../image/bg4.jpg) 0/100% 100%;
+  line-height: normal;
+  /* line-height: initial; */
+  vertical-align: middle;
+  white-space: pre-line;
+  color: green;
+  opacity: .8;
+  overflow: auto;
+}
+
+body p span {
+  font:bold 1.5em normal;
+  color: blueviolet;
+}

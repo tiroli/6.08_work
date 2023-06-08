@@ -1,0 +1,33 @@
+body {
+  background: url(../image/bg5.jpg) center/cover;
+  font-size: 0.8em;
+  line-height: 100vh;
+  margin: 0;
+  text-align: center;
+}
+
+span {
+  font-size: 1.5em;
+  color: blueviolet;
+  font-weight: bold;
+  line-height: 60px;
+} 
+
+
+p {
+
+  background-attachment: fixed; 
+  background-repeat: no-repeat; 
+  background: url(../image/bg4.jpg) left/cover;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  opacity: 0.8;
+  line-height: normal;
+  vertical-align: middle;
+  white-space: pre-wrap;
+
+  color: green;
+  overflow-y: scroll;
+
+}
